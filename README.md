@@ -34,6 +34,9 @@
 
 ## 说明
 
+已知bug：
+- <span style="color: #FF5733;">app启动后首次打开歌词页背景不正常抖动</span>
+
 所用技术栈：
 
 - Electron 30+
@@ -109,7 +112,7 @@
 
 ## 项目协议
 
-本项目基于 [Apache License 2.0](https://github.com/lyswhut/lx-music-desktop/blob/master/LICENSE) 许可证发行，以下协议是对于 Apache License 2.0 的补充，如有冲突，以以下协议为准。
+本项目基于 [Apache License 2.0](https://github.com/xiaozhang-ohhhh/lx-music-desktop-amll/tree/main/LICENSE) 许可证发行，以下协议是对于 Apache License 2.0 的补充，如有冲突，以以下协议为准。
 
 ---
 
@@ -159,4 +162,4 @@
 
 ---
 
-若对此有疑问请 mail to: lyswhut+qq.com (请将 `+` 替换为 `@`)
+若对此有疑问请 mail to: 3986920396+qq.com (请将 `+` 替换为 `@`)
