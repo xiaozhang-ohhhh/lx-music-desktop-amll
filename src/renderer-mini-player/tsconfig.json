@@ -1,0 +1,28 @@
+{
+  "extends": "../../tsconfig.json",
+  "compilerOptions": {
+    "isolatedModules": true,
+    "paths": {
+      "@common/*": ["common/*"],
+      "@renderer/*": ["renderer/*"],
+      "@mini/*": ["renderer-mini-player/*"],
+      "@static/*": ["static/*"],
+      "@root/*": ["./*"]
+    },
+    "typeRoots": [
+      "../common/types",
+      "../renderer/types"
+    ]
+  },
+  "vueCompilerOptions": {
+    "plugins": [
+      "@vue/language-plugin-pug"
+    ]
+  },
+  "include": [
+    "./**/*.ts",
+    "./**/*.vue",
+    "../common/types/**/*.d.ts",
+    "../renderer/types/**/*.d.ts"
+  ]
+}

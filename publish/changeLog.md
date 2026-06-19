@@ -1,0 +1,1 @@
+本项目基于 LX Music 打造，由 AppleMusic-Like-Lyrics 强势驱动\n\n由 小张不是瑜 重编写优化\n\n软件还在积极开发中\n\n如有 Bug，您可以提交 Issue\n\n享受音乐吧～
